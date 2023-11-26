@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins',sans-serif;
-    background-color: #fff;
+    background-color: white;
 }
 
 .container{
@@ -22,9 +22,10 @@ form{
     width: 90%;
     max-width: 600px;
     border-radius: 10px;
+    border-color: beige;
 }
 form h3{
-    color: darkgrey;
+    color: black;
     font-weight: 800;
     margin-bottom: 20px;
 
